@@ -1,0 +1,31 @@
+{
+  "titulo": "Caca-Bug-PC-1-4",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "app/ferramentas/meu-chat/index.html",
+      "nome": "Meu Chat",
+      "desc": "",
+      "on": false,
+      "icone": "app/ferramentas/meu-chat/icons/icon-192.png"
+    },
+    {
+      "path": "app/index.html",
+      "nome": "Caça-Bug",
+      "desc": "",
+      "on": true,
+      "icone": "app/icons/icon.svg"
+    },
+    {
+      "path": "electron/navegador.html",
+      "nome": "🌐 Navegador — Mini SK",
+      "desc": "",
+      "on": false,
+      "icone": ""
+    }
+  ],
+  "sub": "",
+  "logo": "⚖️",
+  "tema": "dourado",
+  "links": []
+}
